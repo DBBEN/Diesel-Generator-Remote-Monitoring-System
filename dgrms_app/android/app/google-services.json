@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "430810373156",
+    "firebase_url": "https://diesel-generator-monitoring-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "diesel-generator-monitoring",
+    "storage_bucket": "diesel-generator-monitoring.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430810373156:android:de08e4b2e3833486834cb1",
+        "android_client_info": {
+          "package_name": "com.example.dgrms_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430810373156-auhej22cd6shshckv5g12eudb7jjm0e0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2dJnf75ahTjzg8g7jpjk0PFlAiyYzo0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430810373156-auhej22cd6shshckv5g12eudb7jjm0e0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "430810373156-5t5873v5acv40ad0e85298a3m2t32515.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dgrmsApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
